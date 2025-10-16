@@ -55,9 +55,13 @@ Tabulation for Load Test:![WhatsApp Image 2025-10-16 at 11 26 24 PM](https://git
 
 Model graph:
 Open circuit characteristics:![WhatsApp Image 2025-10-16 at 11 26 23 PM](https://github.com/user-attachments/assets/5137b24a-17b1-4ee3-b94d-52cc89b6352b)
+                             <img width="860" height="745" alt="Screenshot 2025-10-07 153346" src="https://github.com/user-attachments/assets/3c0e6799-000d-4005-b748-f259bfd2df4e" />
+
 
 
 Load Characteristics:![WhatsApp Image 2025-10-16 at 11 26 23 PM (2)](https://github.com/user-attachments/assets/082e0bcf-c4be-44c5-a9e1-34cb7562ea62)
+                     <img width="840" height="667" alt="Screenshot 2025-10-07 152844" src="https://github.com/user-attachments/assets/42887d79-934b-4182-8fec-9c2196ac494a" />
+
 
  
 Result:
